@@ -1,0 +1,1332 @@
+{
+  "PropertyId": "599967",
+  "AssetsBaseUri": "//dsimgcache.blob.core.windows.net/599967",
+  "Name": "The Highwayman Motel",
+  "Overview": "<h3>The Highwayman Motel in Masterton</h3>\r\n\r\n<p>Your hosts Kylie and Mark invite you to come and enjoy their hospitality at The Highwayman Motel in Masterton &ndash; the heart of the beautiful Wairarapa region.</p>\r\n\r\n<p><b><i>With an affordable range of accommodation we have something to suit everyone</i></b></p>\r\n\r\n<p>From studio units to a one, two or three bedroom apartment, all spacious and well-equipped it&rsquo;s your home away from home, whether you are travelling on your own or as a group or family. Enjoy our spacious, landscaped gardens with BBQ facilities and outdoor seating beside the swimming pool, spa and children&rsquo;s play area. FREE wireless broadband available for each room Conveniently located in High Street, Masterton we are within easy walking distance of a Supermarket and Kuripuni Village where there is a wide variety of shops, cafes and restaurants.<br />\r\nWe offer special rates for corporate clients, group bookings and long-term stays. Be it for business or pleasure we are here to make your stay as comfortable and enjoyable as possible and look forward to meeting you.</p>\r\n\r\n<p>What our customers are saying:</p>\r\n\r\n<p><b><i>Good afternoon,&nbsp;<br />\r\nI am emailing you to thank you for your hospitality to the hockey girls while we stayed there. I would like to thank you for your help with the washing it was very much appreciated.<br />\r\nI was very impressed with you and your husbands nothing was a hassle attitude and you made us feel very welcome.<br />\r\nI would recommend your motel to anyone and if we were down that way again you would be our first port of call.<br />\r\nOnce again thank you very much.<br />\r\nLisa Doughty</i></b></p>\r\n",
+  "Address": {
+    "Address1": "46 High St",
+    "Suburb": "Solway",
+    "City": "Masterton",
+    "Country": "NZ",
+    "Postcode": "5921",
+    "Latitude": -40.9589734219504,
+    "Longitude": 175.644033551216,
+    "MapZoom": 5,
+    "Directions": "<p>From North: Follow State Highway 2 signs heading to Wellington. After 4th roundabout we are 50m on the right. From South: Continue on road entering Masterton, we are 50m before the first roundabout on the left. We will pick up from train and bus stations.</p>\r\n"
+  },
+  "Contact": {
+    "Phone": "06 377 4144",
+    "Fax": "06 377 4142",
+    "EmailAddress": "info@highwayman.co.nz",
+    "FacebookUri": "https://www.facebook.com/thehighwaymanmotel"
+  },
+  "CheckIn": "1:00pm",
+  "CheckInInstructions": "<p>Please advise if you wish to check in early.</p>\r\n",
+  "CheckOut": "10:00am",
+  "Policies": {
+    "Cancellation": "<p>Cancellation and prepayment policies vary according to room type.</p>\r\n",
+    "ChildrenExtraBeds": "<p>All children under 2 years stay free of charge in a crib. 12&#39;s and over charged at $20 per night in an extra bed.The maximum number of extra beds/cribs in a room is 1 . Any type of extra bed or crib is upon request and needs to be confirmed by management. Additional fees are not calculated automatically in the total cost and will have to be paid for separately during your stay.</p>\r\n",
+    "Pets": "<p>Cat &amp; dog friendly. Please check with us in advance.</p>\r\n",
+    "Parking": "<p>Off street parking with ample space for cars, trucks and buses. We have units that offer full privacy from the road.</p>\r\n",
+    "TheFinePrint": "<p>If you expect to arrive outside reception opening hours, please inform us in advance.</p>\r\n"
+  },
+  "Awards": [],
+  "Images": [
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_563070.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_563070.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/563070.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": true,
+      "Gallery": true
+    },
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_212831.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_212831.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/212831.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": true,
+      "Gallery": true
+    },
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_630887.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_630887.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/630887.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": true,
+      "Gallery": true
+    },
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_363268.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_363268.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/363268.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": true,
+      "Gallery": true
+    },
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_407471.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_407471.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/407471.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": true,
+      "Gallery": true
+    },
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_868270.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_868270.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/868270.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": true,
+      "Gallery": true
+    },
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_635212.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_635212.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/635212.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": true,
+      "Gallery": true
+    },
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_182284.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_182284.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/182284.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": true,
+      "Gallery": true
+    },
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_739448.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_739448.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/739448.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": true,
+      "Gallery": true
+    },
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_147465.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_147465.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/147465.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": true,
+      "Gallery": true
+    },
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_810633.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_810633.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/810633.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": true,
+      "Gallery": true
+    },
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_788638.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_788638.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/788638.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": false,
+      "Gallery": true
+    },
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_395661.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_395661.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/395661.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": true,
+      "Gallery": true
+    },
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_508584.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_508584.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/508584.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": true,
+      "Gallery": true
+    },
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_337588.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_337588.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/337588.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": true,
+      "Gallery": true
+    },
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_220617.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_220617.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/220617.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": true,
+      "Gallery": true
+    },
+    {
+      "Variants": [
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_343985.jpg",
+          "Width": 200
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_343985.jpg",
+          "Width": 700
+        },
+        {
+          "ImageUri": "//dsimgcache.blob.core.windows.net/599967/343985.jpg",
+          "Width": 1080
+        }
+      ],
+      "Slider": true,
+      "Gallery": true
+    }
+  ],
+  "Rooms": [
+    {
+      "Name": "Standard Studio",
+      "Overview": "<p>This studio offers a sofa, desk and tea/coffee making facilities.</p>\r\n",
+      "RateNumGuests": 2,
+      "MaxGuests": 3,
+      "BeddingConfiguration": "1 Queen, 1 Single",
+      "CancellationPolicy": "<p>Cancellations or changes to bookings for this room must be made at least 24 hours prior to the check in date and time or you will be charged the full amount of the first changed or cancelled night.</p>\r\n",
+      "ExtraAdultRate": 20.0000,
+      "ExtraChildRate": 15.0000,
+      "ThumbnailImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_779709.jpg",
+      "Images": [
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_779709.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_779709.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/779709.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_525711.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_525711.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/525711.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        }
+      ],
+      "AmenitiesTypes": [
+        {
+          "Name": "General",
+          "Amenities": [ "Australasian Power Outlets", "Bed Linen Provided", "Double Bed", "Electric Blanket", "En Suite", "Free WiFi Internet access", "Hair Dryer", "Heating", "Internet access (wireless) - extra charge", "Ironing Board", "Kettle/Jug", "King Single Bed", "Non Smoking", "Radio Alarm Clock", "Shower Facilities", "Tea & Coffee Supplies", "Toilet Facilities", "Wardrobe" ]
+        },
+        {
+          "Name": "Bedroom",
+          "Amenities": [ "Iron" ]
+        },
+        {
+          "Name": "Kitchen",
+          "Amenities": [ "Microwave", "Toaster" ]
+        },
+        {
+          "Name": "Services",
+          "Amenities": [ "Room Service" ]
+        },
+        {
+          "Name": "Living Area",
+          "Amenities": [ "Sofa" ]
+        },
+        {
+          "Name": "Media & Technology",
+          "Amenities": [ "SKY TV", "Telephone" ]
+        }
+      ]
+    },
+    {
+      "Name": "Executive 1 Bedroom",
+      "Overview": "<p>1 Queen in bedroom &amp; 2 Singles off lounge. Full kitchen open plan dining &amp; lounge area. Spa bath, glass conservatory overlooking childrens play area.</p>\r\n",
+      "RateNumGuests": 2,
+      "MaxGuests": 4,
+      "BeddingConfiguration": "1 Queen,  2 Singles",
+      "CancellationPolicy": "<p>Cancellations or changes to bookings for this room must be made at least 24 hours prior to the check in date and time or you will be charged the full amount of the first changed or cancelled night.</p>\r\n",
+      "ExtraAdultRate": 20.0000,
+      "ExtraChildRate": 15.0000,
+      "ThumbnailImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_838912.jpg",
+      "Images": [
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_838912.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_838912.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/838912.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_433247.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_433247.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/433247.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_551618.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_551618.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/551618.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_231862.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_231862.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/231862.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_326523.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_326523.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/326523.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_268266.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_268266.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/268266.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_780926.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_780926.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/780926.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_233527.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_233527.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/233527.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_929796.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_929796.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/929796.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_148348.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_148348.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/148348.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_448618.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_448618.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/448618.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_620827.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_620827.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/620827.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        }
+      ],
+      "AmenitiesTypes": [
+        {
+          "Name": "General",
+          "Amenities": [ "Australasian Power Outlets", "Broadband", "Clothes line / airer", "Full kitchen", "In-room heater", "In-room spa bath / Jacuzzi", "Non-smoking only", "Refrigerator - full size", "Shower over bath", "Wireless / WiFi" ]
+        },
+        {
+          "Name": "Kitchen",
+          "Amenities": [ "Dishwasher", "Dryer", "Washing machine" ]
+        },
+        {
+          "Name": "Bedroom",
+          "Amenities": [ "Alarm clock" ]
+        },
+        {
+          "Name": "Media & Technology",
+          "Amenities": [ "Radio" ]
+        },
+        {
+          "Name": "Living Area",
+          "Amenities": [ "Desk" ]
+        }
+      ]
+    },
+    {
+      "Name": "2 Bedroom Apartment",
+      "Overview": "<p>This apartment offers a fully equipped kitchen, open plan dining &amp; lounge area.</p>\r\n",
+      "RateNumGuests": 4,
+      "MaxGuests": 6,
+      "BeddingConfiguration": "1 Queen, 4 Single",
+      "CancellationPolicy": "<p>Cancellations or changes to bookings for this room must be made at least 24 hours prior to the check in date and time or you will be charged the full amount of the first changed or cancelled night.</p>\r\n",
+      "ExtraAdultRate": 20.0000,
+      "ExtraChildRate": 15.0000,
+      "ThumbnailImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_594521.jpg",
+      "Images": [
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_594521.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_594521.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/594521.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_387252.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_387252.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/387252.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_651739.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_651739.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/651739.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_846934.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_846934.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/846934.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_473770.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_473770.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/473770.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_933595.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_933595.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/933595.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_295600.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_295600.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/295600.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_396064.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_396064.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/396064.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_538212.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_538212.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/538212.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_421757.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_421757.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/421757.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_305949.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_305949.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/305949.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_208838.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_208838.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/208838.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_673076.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_673076.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/673076.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        }
+      ],
+      "AmenitiesTypes": [
+        {
+          "Name": "General",
+          "Amenities": [ "Australasian Power Outlets", "Triple Single Beds", "Wheelchair Access", "Wheelchair Bathroom" ]
+        }
+      ]
+    },
+    {
+      "Name": "Executive Studio",
+      "Overview": "<p>This executive studio offers a sofa, desk and a kitchen with a cooktop and kitchenware.</p>\r\n",
+      "RateNumGuests": 2,
+      "MaxGuests": 3,
+      "BeddingConfiguration": "1 Queen, 1 Single",
+      "CancellationPolicy": "<p>Cancellations or changes to bookings for this room must be made at least 24 hours prior to the check in date and time or you will be charged the full amount of the first changed or cancelled night.</p>\r\n",
+      "ExtraAdultRate": 20.0000,
+      "ExtraChildRate": 15.0000,
+      "ThumbnailImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_861578.jpg",
+      "Images": [
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_861578.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_861578.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/861578.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_897807.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_897807.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/897807.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_466281.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_466281.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/466281.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_354627.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_354627.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/354627.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_523434.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_523434.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/523434.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        }
+      ],
+      "AmenitiesTypes": [
+        {
+          "Name": "General",
+          "Amenities": [ "Australasian Power Outlets", "Cooking Hob", "Cooking Utensils", "King Size Bed", "Toiletries" ]
+        },
+        {
+          "Name": "Kitchen",
+          "Amenities": [ "Dining Table", "Kitchen" ]
+        }
+      ]
+    },
+    {
+      "Name": "1 Bedroom - 4 Pax",
+      "Overview": "<p>1 Bedroom. 1 Queen in Lounge, 2 singles in bedroom. Full kitchen.Amenities.</p>\r\n",
+      "RateNumGuests": 2,
+      "MaxGuests": 4,
+      "BeddingConfiguration": "1 Queen, 2 Single",
+      "CancellationPolicy": "<p>Cancellations or changes to bookings for this room must be made at least 24 hours prior to the check in date and time or you will be charged the full amount of the first changed or cancelled night.</p>\r\n",
+      "ExtraAdultRate": 20.0000,
+      "ExtraChildRate": 15.0000,
+      "ThumbnailImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_496733.jpg",
+      "Images": [
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_496733.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_496733.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/496733.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_450826.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_450826.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/450826.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_165486.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_165486.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/165486.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        }
+      ],
+      "AmenitiesTypes": [
+        {
+          "Name": "General",
+          "Amenities": [ "Australasian Power Outlets", "Benchtop Oven", "Electric Frying Pan", "Heat Pumps", "Queen Size Bed", "Single Bed", "Twin Single Beds" ]
+        },
+        {
+          "Name": "Services",
+          "Amenities": [ "Laundry" ]
+        },
+        {
+          "Name": "Kitchen",
+          "Amenities": [ "Fridge/Freezer", "Oven" ]
+        },
+        {
+          "Name": "Media & Technology",
+          "Amenities": [ "TV" ]
+        }
+      ]
+    },
+    {
+      "Name": "3 Bedroom Apartment",
+      "Overview": "<p>This apartment offers a fully equipped kitchen and a spacious lounge &amp; dining area.</p>\r\n",
+      "RateNumGuests": 4,
+      "MaxGuests": 7,
+      "BeddingConfiguration": "1 Queen, 5 Single",
+      "CancellationPolicy": "<p>Cancellations or changes to bookings for this room must be made at least 24 hours prior to the check in date and time or you will be charged the full amount of the first changed or cancelled night.</p>\r\n",
+      "ExtraAdultRate": 20.0000,
+      "ExtraChildRate": 15.0000,
+      "ThumbnailImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_841715.jpg",
+      "Images": [
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_841715.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_841715.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/841715.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_111210.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_111210.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/111210.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_516415.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_516415.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/516415.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_146361.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_146361.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/146361.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_166659.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_166659.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/166659.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_443575.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_443575.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/443575.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_883241.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_883241.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/883241.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        },
+        {
+          "Variants": [
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/thumb_649170.jpg",
+              "Width": 200
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/700_649170.jpg",
+              "Width": 700
+            },
+            {
+              "ImageUri": "//dsimgcache.blob.core.windows.net/599967/649170.jpg",
+              "Width": 1080
+            }
+          ],
+          "Slider": true,
+          "Gallery": true
+        }
+      ],
+      "AmenitiesTypes": [
+        {
+          "Name": "General",
+          "Amenities": [ "Australasian Power Outlets", "Bathroom", "Broadband", "Carpeted", "Ironing facilities", "Shower", "Toilet" ]
+        },
+        {
+          "Name": "Bedroom",
+          "Amenities": [ "Alarm clock", "Wardrobe/Closet" ]
+        },
+        {
+          "Name": "Media & Technology",
+          "Amenities": [ "Satellite channels" ]
+        },
+        {
+          "Name": "Kitchen",
+          "Amenities": [ "Electric kettle", "Refrigerator", "Tea/Coffee maker" ]
+        }
+      ]
+    }
+  ],
+  "AmenitiesTypes": [
+    {
+      "Name": "General",
+      "Amenities": [ "All Rooms Non-Smoking", "All Spaces Non-Smoking (public and private)", "Carpeted", "Facilities for Disabled Guests", "Family Rooms", "Heating", "Ironing facilities", "Newspapers" ]
+    },
+    {
+      "Name": "Outdoors",
+      "Amenities": [ "BBQ on request", "Giant Chess Set", "Grounds", "Outdoor Pool (seasonal)", "Playground" ]
+    },
+    {
+      "Name": "Services",
+      "Amenities": [ "Baggage Storage", "Breakfast Service", "Dry Cleaning", "Fax/Photocopying", "Laundry", "Packed Lunches", "Room Service", "Vending Machine (drinks)" ]
+    },
+    {
+      "Name": "Bedroom",
+      "Amenities": [ "Alarm clock", "Wardrobe/Closet" ]
+    },
+    {
+      "Name": "Media & Technology",
+      "Amenities": [ "Radio", "Satellite channels", "Telephone" ]
+    },
+    {
+      "Name": "Living Area",
+      "Amenities": [ "Desk", "Sofa" ]
+    },
+    {
+      "Name": "Kitchen",
+      "Amenities": [ "Tea/Coffee maker" ]
+    },
+    {
+      "Name": "Activities",
+      "Amenities": [ "Hot Tub", "Tennis Court" ]
+    }
+  ],
+  "PaymentCards": [ "visa", "euromastercard", "eftpos" ],
+  "GoogleUA": "UA-70608297-1"
+}
